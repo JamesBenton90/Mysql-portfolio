@@ -32,6 +32,8 @@ Welcome to my **Northwind Database** SQL exploration! Here, I leveraged classic 
 
 ### 6. **Schema Exploration** 🗂️
 - Used `DESCRIBE` statements to understand table structures — a fundamental step in any traditional SQL workflow.
+---
+![image](https://github.com/user-attachments/assets/9f134eb5-995d-43b4-8ceb-8a344746eb6f)
 
 ---
 
